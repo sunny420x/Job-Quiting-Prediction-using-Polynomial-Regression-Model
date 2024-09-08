@@ -1,4 +1,4 @@
-# Job Quiting Prediction using Polynomial Regression Model.
+# Job Quitting Prediction using Polynomial Regression Model.
 Job Quiting Prediction using Polynomial for training the dataset and Linear Regression to predicts the outcome.
 
 X train size: 11999<br>

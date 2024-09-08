@@ -1,6 +1,7 @@
 # Job Quitting Prediction Model.
 Job Quiting Prediction using Polynomial for training the dataset and Linear Regression to predicts the outcome.
 Dataset: <a href="https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction" target="_blank">https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction</a><br>
+<hr>
 X train size: 11999<br>
 X test size: 3000<br>
 Y train size: 11999<br>
